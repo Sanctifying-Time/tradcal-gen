@@ -1,2 +1,4 @@
 from tradcal_gen.model.calendarday import CalendarDay
 from tradcal_gen.model.liturgicalcolor import LiturgicalColor
+from tradcal_gen.model.liturgicalday import LiturgicalDay
+from tradcal_gen.model.fixedliturgicalday import FixedLiturgicalDay
